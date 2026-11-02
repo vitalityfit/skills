@@ -1,0 +1,14 @@
+{
+  "name": "vitalityfit-prices",
+  "version": "1.0.0",
+  "description": "Cheapest current offers for health products (medicines, supplements, care products) from German online shops and pharmacies, by name, PZN or EAN. Adds the Vitalityfit MCP server; no API key.",
+  "author": {
+    "name": "Vitalityfit",
+    "email": "service@vitality-fit.de",
+    "url": "https://vitality-fit.de/"
+  },
+  "homepage": "https://vitality-fit.de/mcp/",
+  "repository": "https://github.com/vitalityfit/skills",
+  "license": "MIT-0",
+  "keywords": ["price-comparison", "pharmacy", "germany", "health", "shopping", "mcp"]
+}
