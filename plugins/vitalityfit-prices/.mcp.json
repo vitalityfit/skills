@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "vitalityfit": {
+      "type": "http",
+      "url": "https://vitality-fit.de/mcp"
+    }
+  }
+}
